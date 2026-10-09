@@ -300,7 +300,7 @@ Pika 5 parashikon këtë njoftim: pas botimit të kërkesës, DPPI-ja njofton p�
 >
 > b) nuk ekziston asnjë nga shkaqet absolute për refuzimin e regjistrimit të markës tregtare, sipas nenit 8 të këtij ligji.
 >
-> 2. Kur regjistrimi i markës tregtare refuzohet vetëm për një pjesë të mallrave dhe shërbimeve, DPPIja boton të dhënat e kërkesës për pjesën tjetër të mallrave dhe shërbimeve.
+> 2. Kur regjistrimi i markës tregtare refuzohet vetëm për një pjesë të mallrave dhe shërbimeve, DPPI-ja boton të dhënat e kërkesës për pjesën tjetër të mallrave dhe shërbimeve.
 >
 > 3. Përmbajtja e kërkesës për markë që botohet në buletinin e DPPI-së përcaktohet me vendim të Këshillit të Ministrave.
 >
@@ -332,7 +332,7 @@ Pika 5 parashikon korrigjimin e gabimeve në botim që i atribuohen DPPI-së, me
 >
 > 4. Observimet e përcaktuara në pikën 1 të këtij neni i dërgohen kërkuesit që ka depozituar kërkesën për regjistrim marke, i cili mund të përgjigjet dhe të depozitojë komente brenda 1 muaji nga data e marrjes së observimeve.
 >
-> 5. Paraqitja e observimeve që përcaktohen në pikën 1 të këtij neni nuk përjashton të drejtën e DPPIsë që në çdo kohë përpara regjistrimit të markës të rihapë me nismën e saj procedurën e ekzaminimit për shkaqe absolute.
+> 5. Paraqitja e observimeve që përcaktohen në pikën 1 të këtij neni nuk përjashton të drejtën e DPPI-së që në çdo kohë përpara regjistrimit të markës të rihapë me nismën e saj procedurën e ekzaminimit për shkaqe absolute.
 
 Neni 45 i lejon çdo personi fizik ose juridik dhe çdo grupi ose entiteti që përfaqëson prodhuesit, ofruesit e shërbimeve, tregtarët ose konsumatorët të depozitojë observime me shkrim për shkaqet absolute për të cilat marka nuk duhet të regjistrohet (pika 1). Observimet janë mjet kontrolli publik që plotëson ekzaminimin e DPPI-së.
 
@@ -650,7 +650,7 @@ Pika 4 delegon procedurën e botimit të regjistrimit. Ligji nuk rregullon shpre
 
 **Teksti i dispozitës:**
 
-> 1. Me kërkesë të pronarit të markës tregtare, si dhe pas kryerjes së pagesës së tarifës përkatëse, DPPIja lëshon një tjetër kopje të certifikatës së regjistrimit të markës tregtare.
+> 1. Me kërkesë të pronarit të markës tregtare, si dhe pas kryerjes së pagesës së tarifës përkatëse, DPPI-ja lëshon një tjetër kopje të certifikatës së regjistrimit të markës tregtare.
 >
 > 2. Përmbajtja e certifikatës së markës përcaktohet me vendim të Këshillit të Ministrave.
 

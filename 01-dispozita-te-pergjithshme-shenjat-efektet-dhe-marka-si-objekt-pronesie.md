@@ -20,7 +20,7 @@
 >
 > dh) mbrojtjen e të drejtave të markave tregtare në rastet e shkeljes së këtyre të drejtave.
 
-*Shënim në tekstin zyrtar:* Shënimi 1 te titulli i ligjit (“PËR MARKAT TREGTARE”), i cili në tekstin burimor ndodhet brenda nenit 4: Ky ligj përafron plotësisht: - Rregulloren (BE) 2017/1001, të Parlamentit Evropian dhe të Këshillit, të datës 14 qershor 2017, për markat tregtare të Bashkimit Evropian, Celex nr. 32017R1001; Fletorja Zyrtare e Bashkimit Evropian, seria L, nr. 154, datë 16.6.2017 (OJ L 154, 16.6.2017, p. 1–99). - Direktivën (BE) 2015/2436, të Parlamentit Evropian dhe të Këshillit, të datës 16 dhjetor 2015, për përafrimin e legjislacionit të shteteve anëtare në lidhje me markat tregtare, Celex nr. 32015L2436; Fletorja Zyrtare e Bashkimit Evropian, seria L, nr. 336, datë 23.12.2015 (OJ L 336, 23.12.2015, p. 1–26). - Direktivën 2004/48/EC, të Parlamentit Evropian dhe të Këshillit, të datës 29 prill 2004, për zbatimin e të drejtave të pronësisë intelektuale, Celex nr. 32004L0048R(01); Fletorja Zyrtare e Bashkimit Evropian, seria L, nr. 195, datë 2.6.2004 (OJ L 195, 2.6.2004, p. 16–25).
+*Shënim në tekstin zyrtar:* Shënimi 1 te titulli i ligjit (“PËR MARKAT TREGTARE”): Ky ligj përafron plotësisht: - Rregulloren (BE) 2017/1001, të Parlamentit Evropian dhe të Këshillit, të datës 14 qershor 2017, për markat tregtare të Bashkimit Evropian, Celex nr. 32017R1001; Fletorja Zyrtare e Bashkimit Evropian, seria L, nr. 154, datë 16.6.2017 (OJ L 154, 16.6.2017, p. 1–99). - Direktivën (BE) 2015/2436, të Parlamentit Evropian dhe të Këshillit, të datës 16 dhjetor 2015, për përafrimin e legjislacionit të shteteve anëtare në lidhje me markat tregtare, Celex nr. 32015L2436; Fletorja Zyrtare e Bashkimit Evropian, seria L, nr. 336, datë 23.12.2015 (OJ L 336, 23.12.2015, p. 1–26). - Direktivën 2004/48/EC, të Parlamentit Evropian dhe të Këshillit, të datës 29 prill 2004, për zbatimin e të drejtave të pronësisë intelektuale, Celex nr. 32004L0048R(01); Fletorja Zyrtare e Bashkimit Evropian, seria L, nr. 195, datë 2.6.2004 (OJ L 195, 2.6.2004, p. 16–25).
 
 Neni 1 përcakton objektin e ligjit dhe njëkohësisht jep një pasqyrë të strukturës së tij. Gjashtë shkronjat e nenit korrespondojnë me blloqet kryesore normative: rregullat, kriteret dhe procedurat e regjistrimit (shkronja “a”, që zhvillohen në pjesët III dhe IV, nenet 32–55), të drejtat që rrjedhin nga regjistrimi (shkronja “b”, nenet 10–17), marka si objekt pronësie dhe regjistrimi i ndryshimeve në regjistër (shkronja “c”, nenet 21–31 dhe 56–60), shfuqizimi dhe pavlefshmëria (shkronja “ç”, nenet 61–70), administrimi i sistemit dhe i regjistrit (shkronja “d”, nenet 108–124) dhe mbrojtja e të drejtave në rast shkeljeje (shkronja “dh”, nenet 125–136).
 
@@ -78,7 +78,7 @@ Neni 3 nuk përmend markat e paregjistruara. Ato nuk janë “marka tregtare” 
 >
 > 5. “Dhoma e kundërshtimeve” ose “Dhoma” është një strukturë e ngritur brenda njësisë së ekzaminimit që shqyrton kundërshtimet ndaj markave tregtare, në përputhje me dispozitat e këtij ligji.
 >
-> 6. “Dhoma për shfuqizim dhe pavlefshmëri” ose “Dhoma” është një strukturë e ngritur brenda DPPIsë, që shqyrton kërkesat për shfuqizimin dhe deklarimin e pavlefshmërisë së markave tregtare, observimet e depozituara për shkaqe absolute kundër markave tregtare të botuara dhe ankimet kundër vendimeve për refuzimin e markës ose elementeve të markës për shkaqe absolute, në përputhje me dispozitat e këtij ligji.
+> 6. “Dhoma për shfuqizim dhe pavlefshmëri” ose “Dhoma” është një strukturë e ngritur brenda DPPI-së, që shqyrton kërkesat për shfuqizimin dhe deklarimin e pavlefshmërisë së markave tregtare, observimet e depozituara për shkaqe absolute kundër markave tregtare të botuara dhe ankimet kundër vendimeve për refuzimin e markës ose elementeve të markës për shkaqe absolute, në përputhje me dispozitat e këtij ligji.
 >
 > 7. “Gjykatë” është Gjykata e Shkallës së Parë e Juridiksionit të Përgjithshëm Tiranë ose Gjykata Administrative e Shkallës së Parë Tiranë, sipas rastit.
 >
@@ -606,7 +606,7 @@ Kushtet materiale janë regjistrimi në emër të përfaqësuesit dhe mungesa e 
 
 Pika 2 përcakton dy rrugë procedurale. Sipas shkronjës “a”, kërkesa mund të paraqitet në DPPI, në procedurën e pavlefshmërisë për shkaqe relative sipas nenit 66, pika 1, shkronja “ç”, “në vend të” kërkesës për pavlefshmëri. Vendimi i Dhomës për Shfuqizim dhe Pavlefshmëri në këtë rast nuk e deklaron markën të pavlefshme, por urdhëron transferimin e saj (neni 70, pika 5). Sipas shkronjës “b”, kërkesa mund t’i paraqitet gjykatës sipas nenit 66, pika 2, d.m.th. si kundërpadi në procesin për shkelje ose kur pala vendos ta çojë çështjen nga Dhoma në gjykatë.
 
-Në tekstin burimor të QBZ, fjala “në:” që mbyll fjalinë hyrëse të pikës 2 ndodhet, për shkak të faqosjes, para kësaj pike; në tekstin e mësipërm ajo është vendosur në vendin e saj logjik. Ligji nuk vendos afat të posaçëm për këtë kërkesë; megjithatë, duhet pasur parasysh neni 68 për pranimin në heshtje, i cili mund të zbatohet edhe këtu nëse pronari ka toleruar përdorimin për pesë vjet.
+Ligji nuk vendos afat të posaçëm për këtë kërkesë; megjithatë, duhet pasur parasysh neni 68 për pranimin në heshtje, i cili mund të zbatohet edhe këtu nëse pronari ka toleruar përdorimin për pesë vjet.
 
 ### Neni 24 — Regjistrimi i të drejtave reale në regjistër
 

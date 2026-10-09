@@ -222,7 +222,7 @@ Afati tremujor duhet të përshtatet me afatin e Protokollit për njoftimin e re
 >
 > 5. Kur mbajtësi i regjistrimit ndërkombëtar nuk plotëson kërkesat e përcaktuara në pikat 2 ose 3, të këtij neni, brenda afateve të caktuara, DPPI-ja vendos automatikisht për pranimin e kundërshtimit dhe refuzimin e regjistrimit ndërkombëtar të markës në lidhje me një pjesë ose të gjitha mallrat dhe shërbimet.
 >
-> 6. Mbajtësi i regjistrimit ndërkombëtar gëzon të njëjtat të drejta sikur marka të ishte depozituar drejtpërdrejt në DPPI. Kur mbajtësi paraqet observimet e tij brenda afateve kohore të caktuara, DPPIja ndjek të njëjtën procedurë kundërshtimi sikur marka të ishte depozituar drejtpërdrejt në DPPI.
+> 6. Mbajtësi i regjistrimit ndërkombëtar gëzon të njëjtat të drejta sikur marka të ishte depozituar drejtpërdrejt në DPPI. Kur mbajtësi paraqet observimet e tij brenda afateve kohore të caktuara, DPPI-ja ndjek të njëjtën procedurë kundërshtimi sikur marka të ishte depozituar drejtpërdrejt në DPPI.
 
 Neni 101 rregullon procedurën e kundërshtimit ndaj regjistrimit ndërkombëtar. Sipas pikës 1, kur depozitohet kundërshtim, DPPI-ja njofton Zyrën Ndërkombëtare para përfundimit të afatit të refuzimit sipas nenit 5, paragrafi 2/a, të Protokollit; njoftimi dërgohet si refuzim i përkohshëm bazuar në kundërshtim. Pika 2 kërkon që njoftimi të përmbajë një deklaratë me të gjitha shkaqet e kundërshtimit.
 
@@ -754,7 +754,7 @@ Masat e nenit 115 duhet të balancojnë dy interesa: mbrojtjen e sekretit tregta
 >
 > 2. DPPI-ja nxjerr një akt të ri për korrigjimin e gabimeve dhe pasaktësive të dukshme. Vendimi për korrigjimin e gabimeve dhe pasaktësive të dukshme u dërgohet palëve të interesuara, si dhe botohet në buletin.
 >
-> 3. Nëse gabimet dhe pasaktësitë e dukshme janë bërë nga vetë aplikanti ose pronari i markës, DPPIja i korrigjon gabimet ose pasaktësitë përkundrejt depozitimit të kërkesës dhe pagesës së tarifës përkatëse.
+> 3. Nëse gabimet dhe pasaktësitë e dukshme janë bërë nga vetë aplikanti ose pronari i markës, DPPI-ja i korrigjon gabimet ose pasaktësitë përkundrejt depozitimit të kërkesës dhe pagesës së tarifës përkatëse.
 >
 > 4. Nëse gabimet dhe pasaktësitë e dukshme janë bërë nga vetë DPPI-ja, korrigjimi kryhet pa pagesë.
 >
@@ -944,7 +944,7 @@ Neni 122 nuk rregullon njoftimet ndaj Zyrës Ndërkombëtare, të cilat i nënsh
 >
 > 4. Aplikanti ose pronari i markës tregtare mund të ndryshojë përfaqësuesin e tij në regjistrin e markave nëpërmjet depozitimit të një kërkese, e cila përmban autorizimin e përfaqësimit për përfaqësuesin e ri dhe pagesën e tarifës përkatëse.
 >
-> 5. Përfaqësuesit e autorizuar për markat tregtare, që janë certifikuar dhe regjistruar si të tillë nga DPPIja, mund të hiqen nga regjistri dhe lista e përfaqësuesve të autorizuar me kërkesë të tyre. Ndryshimet në listën e përfaqësuesve publikohen.
+> 5. Përfaqësuesit e autorizuar për markat tregtare, që janë certifikuar dhe regjistruar si të tillë nga DPPI-ja, mund të hiqen nga regjistri dhe lista e përfaqësuesve të autorizuar me kërkesë të tyre. Ndryshimet në listën e përfaqësuesve publikohen.
 >
 > 6. Çdo ndryshim në lidhje me statusin dhe të dhënat e përfaqësuesit të autorizuar regjistrohet në regjistër dhe botohet në buletinin e DPPI-së.
 >
